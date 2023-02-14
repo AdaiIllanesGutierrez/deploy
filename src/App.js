@@ -1,1 +1,1 @@
-alert("Hola desde Javascript");
+alert("Preciona Ok para Continuar");
